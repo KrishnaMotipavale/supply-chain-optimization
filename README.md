@@ -1,1 +1,1 @@
-# supply-chain-optimization
+# SupplyChainOptimization
